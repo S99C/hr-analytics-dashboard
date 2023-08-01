@@ -1,5 +1,5 @@
 # hr-analytics-dashboard
-A power BI report to identify various trends and insights from the attendance data of all the employees of the organization.
+A power BI report to identify various trends and insights from the attendance data of all Atliq employees for 2nd quarter of 2022.
 <br>
 ## Dashboard Screenshot:
 <br>
