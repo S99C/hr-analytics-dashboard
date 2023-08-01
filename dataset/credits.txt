@@ -1,0 +1,1 @@
+This data set was provided by Codebasics.io. This file contains actual attendance data of Atliq's employees with their names changed.
